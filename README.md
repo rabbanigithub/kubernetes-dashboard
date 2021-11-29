@@ -1,1 +1,1 @@
-# kubernetes-dashboard
+# Kubernetes Dashboard with Metrics Server
