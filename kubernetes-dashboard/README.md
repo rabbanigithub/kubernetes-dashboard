@@ -20,4 +20,5 @@ kubectl -n kubernetes-dashboard create token admin-user
 kubectl apply -f metrics-server.yaml
 ```
 
+_Dashboard url- https://NodeIP:30000_
 _Disable certificate validation by passing --kubelet-insecure-tls to Metrics Server if Kubelet certificate is not signed cluster Certificate Authority_
